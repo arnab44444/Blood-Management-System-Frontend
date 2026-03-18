@@ -70,3 +70,9 @@ export default function Login() {
     </form>
   );
 }
+
+// const HERO_SLIDES = [
+//   'https://i.ibb.co/WvYMhvWc/2025-10-071228336.jpg',
+//   'https://i.ibb.co/jP7XS8L2/pngtree-world-blood-donor-day-with-bag-and-2-hearts-png-image-6379969.jpg',
+//   'https://i.ibb.co.com/nsssGTR1/1686982617-6.jpg',
+// ];
